@@ -1,0 +1,31 @@
+{
+  "name": "loadstorm",
+  "version": "1.0.18",
+  "homepage": "https://maheshthorat.web.app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maheshmthorat/loadstorm"
+  },
+  "description": "LoadStorm is a simple CLI tool designed to test the load and performance of web pages by generating multiple requests concurrently. It helps developers and QA teams to analyze how their websites handle high traffic and identify potential performance bottlenecks.",
+  "main": "index.js",
+  "keywords": [
+    "load testing",
+    "performance testing",
+    "website testing",
+    "benchmarking",
+    "stress testing"
+  ],
+  "bin": {
+    "loadtest": "./index.js"
+  },
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "chalk": "^5.3.0"
+  },
+  "author": "Mahesh Thorat",
+  "license": "MIT"
+}
