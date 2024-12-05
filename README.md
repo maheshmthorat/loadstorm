@@ -97,7 +97,7 @@ Load test completed successfully!
 ─────────────────────────┬──────────────────────────────────────────────────────
  Metric                │ Value
 ─────────────────────────┼──────────────────────────────────────────────────────
- URL                   │ https://work.life
+ URL                   │ https://your-domain.com
  Number of Requests    │ 10
  Concurrency Level     │ 10
  Start Time            │ 26/6/2024, 2:57:30 pm
