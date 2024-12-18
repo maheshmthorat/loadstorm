@@ -2,7 +2,7 @@
 
 LoadStorm is a powerful command-line interface (CLI) tool crafted to stress-test web pages by executing concurrent requests. It empowers developers and QA teams to evaluate website performance under heavy loads, pinpointing potential bottlenecks and ensuring optimal user experience.
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.18-blue?logo=nodedotjs&logoColor=white)](https://www.npmjs.com/package/loadstorm)
+[![npm version](https://img.shields.io/badge/npm-v1.0.20-blue?logo=nodedotjs&logoColor=white)](https://www.npmjs.com/package/loadstorm)
 [![github](https://img.shields.io/badge/-Repository-black?logo=github)](https://github.com/maheshmthorat/loadstorm)
 [![install size](https://img.shields.io/badge/install%20size-17%20kB-green?logo=files&logoColor=white)](https://www.npmjs.com/package/loadstorm)
 [![author](https://img.shields.io/badge/author-Mahesh%20Thorat-purple)](https://maheshthorat.web.app/)
@@ -82,7 +82,7 @@ npx loadstorm --site=https://your-domain.com --requests=20 --concurrency=5 --det
 ## Example Command
 
 ```cmd
-npx loadstorm --site=https://your-domain.com/api --requests=50 --concurrency=10 --headers="{\"Authorization\":\"Bearer token\"}" --method=POST --payload="{\"key\":\"value\"}"
+npx loadstorm --site=https://your-domain.com --requests=50 --concurrency=10 --headers="{\"Authorization\":\"Bearer token\"}" --method=POST --payload="{\"key\":\"value\"}"
 ```
 
 ## Example Output
@@ -116,6 +116,11 @@ Load test completed successfully!
                        | Memory: 7.72 GB
 ─────────────────────────┴──────────────────────────────────────────────────────
 ```
+
+## Donate
+
+Would you like to support the advancement of this plugin?
+[Donate to this plugin](https://buymeacoffee.com/maheshmthorat)
 
 ## Contributing
 
