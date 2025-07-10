@@ -1,10 +1,10 @@
 {
   "name": "loadstorm",
-  "version": "1.0.20",
-  "homepage": "https://maheshthorat.web.app",
+  "version": "2.0.0",
+  "homepage": "https://loadstorm.vercel.app/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/maheshmthorat/loadstorm"
+    "url": "git+https://github.com/maheshmthorat/loadstorm.git"
   },
   "description": "LoadStorm is a simple CLI tool designed to test the load and performance of web pages by generating multiple requests concurrently. It helps developers and QA teams to analyze how their websites handle high traffic and identify potential performance bottlenecks.",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "stress testing"
   ],
   "bin": {
-    "loadtest": "./index.js"
+    "loadtest": "index.js"
   },
   "type": "module",
   "scripts": {
