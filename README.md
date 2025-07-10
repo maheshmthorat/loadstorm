@@ -7,6 +7,14 @@ LoadStorm is a powerful command-line interface (CLI) tool crafted to stress-test
 [![install size](https://img.shields.io/badge/install%20size-17%20kB-green?logo=files&logoColor=white)](https://www.npmjs.com/package/loadstorm)
 [![author](https://img.shields.io/badge/author-Mahesh%20Thorat-purple)](https://maheshthorat.web.app/)
 
+## 🚀 Live Playground
+
+Explore LoadStorm instantly without installing anything!
+
+[![Open LoadStorm Playground](https://img.shields.io/badge/Try%20Now-Playground-blueviolet?style=for-the-badge&logo=vercel&logoColor=white)](https://loadstorm.vercel.app)
+
+> 🔍 Run stress tests right in your browser. Perfect for demos, quick experiments, or getting a feel for LoadStorm’s power.
+
 ## Description
 
 LoadStorm is designed to simulate high traffic scenarios on websites, allowing users to measure response times, evaluate performance metrics, and analyze system details under load conditions.
