@@ -2,7 +2,7 @@
 
 LoadStorm is a powerful command-line interface (CLI) tool crafted to stress-test web pages by executing concurrent requests. It empowers developers and QA teams to evaluate website performance under heavy loads, pinpointing potential bottlenecks and ensuring optimal user experience.
 
-[![npm version](https://img.shields.io/badge/npm-v1.0.20-blue?logo=nodedotjs&logoColor=white)](https://www.npmjs.com/package/loadstorm)
+[![npm version](https://img.shields.io/badge/npm-v2.0.0-blue?logo=nodedotjs&logoColor=white)](https://www.npmjs.com/package/loadstorm)
 [![github](https://img.shields.io/badge/-Repository-black?logo=github)](https://github.com/maheshmthorat/loadstorm)
 [![install size](https://img.shields.io/badge/install%20size-17%20kB-green?logo=files&logoColor=white)](https://www.npmjs.com/package/loadstorm)
 [![author](https://img.shields.io/badge/author-Mahesh%20Thorat-purple)](https://maheshthorat.web.app/)
